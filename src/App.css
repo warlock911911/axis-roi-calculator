@@ -1,0 +1,78 @@
+body {
+  background:#f4f6f8;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  max-width:720px;
+  margin:30px auto;
+  background:#fff;
+  padding:22px;
+  border-radius:14px;
+  box-shadow:0 6px 14px rgba(0,0,0,.12);
+}
+
+label {
+  display:block;
+  margin-top:14px;
+  font-weight:bold;
+}
+
+select {
+  width:100%;
+  padding:9px;
+  margin-top:6px;
+  border-radius:6px;
+  border:1px solid #ccc;
+}
+
+.row {
+  display:flex;
+  gap:16px;
+  margin-top:8px;
+  flex-wrap:wrap;
+}
+
+button {
+  margin-top:22px;
+  width:100%;
+  padding:13px;
+  background:#0066cc;
+  color:#fff;
+  border:none;
+  border-radius:10px;
+  font-size:16px;
+  cursor:pointer;
+}
+
+.result {
+  margin-top:22px;
+  padding:18px;
+  background:#eef6ff;
+  border-radius:12px;
+}
+
+.big {
+  font-size:26px;
+  font-weight:bold;
+}
+
+.small {
+  font-size:13px;
+  color:#444;
+  margin-top:6px;
+}
+
+.more {
+  color:#0066cc;
+  cursor:pointer;
+  font-size:14px;
+  margin-top:10px;
+}
+
+.payout {
+  margin-top:12px;
+  padding:14px;
+  background:#fff;
+  border-radius:10px;
+}
